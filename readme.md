@@ -12,6 +12,6 @@ The volatility prediction model is based on an SVR-GARCH model with a linear ker
 
 Below, you can find some images on our price and volatility predictions for different stocks:
 
-![myimage-alt-tag](C:\Python Projects\deploy_using_flask\Apple Stock Price Prediction.png)
-![myimage-alt-tag](C:\Python Projects\deploy_using_flask\Coca Cola Volatility Training.png)
-![myimage-alt-tag](C:\Python Projects\deploy_using_flask\P&G Volatility Prediction.png)
+![myimage-alt-tag](Apple Stock Price Prediction.png)
+![myimage-alt-tag](Coca Cola Volatility Training.png)
+![myimage-alt-tag](P&G Volatility Prediction.png)
